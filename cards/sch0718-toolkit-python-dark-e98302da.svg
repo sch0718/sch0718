@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="450" viewBox="0 0 400 450" role="img" aria-label="toolkit-python — Python 백엔드가 함께 쓸 패키지 모음">
+<title>toolkit-python — Python 백엔드가 함께 쓸 패키지 모음</title>
+<defs><clipPath id="r"><rect x="0.5" y="0.5" width="399" height="449" rx="12"/></clipPath></defs>
+<rect x="0.5" y="0.5" width="399" height="449" rx="12" fill="#151b23" stroke="#3d444d"/>
+<g clip-path="url(#r)">
+<defs><pattern id="s" width="15" height="15" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="15" height="15" fill="#212334"/><rect width="1" height="15" fill="#302d49"/></pattern></defs>
+<rect x="0" y="0" width="400" height="184" fill="url(#s)"/>
+<text x="200.0" y="104.0" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="#ab7df8">toolkit-python</text>
+<rect x="0" y="183.5" width="400" height="1" fill="#3d444d"/>
+</g>
+<rect x="20" y="209" width="8" height="8" rx="2" fill="#ab7df8"/>
+<text x="34" y="217.5" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#7d8590">공용 패키지</text>
+<circle cx="345.6" cy="213.5" r="6" fill="#9198a1" fill-opacity="0.18"/>
+<circle cx="345.6" cy="213.5" r="3" fill="#9198a1"/>
+<text x="380" y="217.5" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#9198a1">뼈대</text>
+<text x="20" y="248" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">toolkit-python</text>
+<text x="186.0" y="248" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;D2Coding&quot;, &quot;Noto Sans Mono CJK KR&quot;, monospace" font-size="11.5" fill="#7d8590">sch0718-toolkit-python</text>
+<text x="20" y="274" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#f0f6fc">Python 백엔드가 함께 쓸 패키지 모음</text>
+<text x="20" y="296.0" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">두 곳 이상에서 쓰는 Python 코드가 생기면 바로 넣을 수</text>
+<text x="20" y="315.5" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">있게 도구·시험·발행 설정을 갖춰 둔 뼈대입니다. 태그마다</text>
+<text x="20" y="335.0" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">wheel을 릴리스에 붙입니다.</text>
+<rect x="20.0" y="372" width="53.6" height="20" rx="6" fill="#212830"/>
+<text x="27.0" y="386" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;D2Coding&quot;, &quot;Noto Sans Mono CJK KR&quot;, monospace" font-size="11" fill="#9198a1">Python</text>
+<rect x="79.6" y="372" width="27.2" height="20" rx="6" fill="#212830"/>
+<text x="86.6" y="386" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;D2Coding&quot;, &quot;Noto Sans Mono CJK KR&quot;, monospace" font-size="11" fill="#9198a1">uv</text>
+<rect x="112.8" y="372" width="113.0" height="20" rx="6" fill="#212830"/>
+<text x="119.8" y="386" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;D2Coding&quot;, &quot;Noto Sans Mono CJK KR&quot;, monospace" font-size="11" fill="#9198a1">GitHub Releases</text>
+<rect x="20" y="408" width="360" height="1" fill="#3d444d"/>
+<g transform="translate(20.0 422.0) scale(0.8125)"><path fill="#4493f8" d="M8 0C3.58 0 0 3.58 0 8a8 8 0 0 0 5.47 7.59c.4.07.55-.17.55-.38v-1.33c-2.23.48-2.7-1.07-2.7-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.06-.49.06-.49.8.06 1.23.83 1.23.83.72 1.22 1.87.87 2.33.66.07-.52.28-.87.5-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82a7.6 7.6 0 0 1 4 0c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.2c0 .21.15.46.55.38A8 8 0 0 0 16 8c0-4.42-3.58-8-8-8Z"/></g>
+<text x="39" y="433.5" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Apple SD Gothic Neo&quot;, &quot;Malgun Gothic&quot;, &quot;Noto Sans KR&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#4493f8">저장소</text>
+<text x="380" y="433.5" text-anchor="end" font-family="ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;D2Coding&quot;, &quot;Noto Sans Mono CJK KR&quot;, monospace" font-size="12" fill="#7d8590">2026.10.27</text>
+</svg>
