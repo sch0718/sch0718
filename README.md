@@ -14,7 +14,7 @@
 
 #### 프로젝트
 
-<sub>프로젝트 9개 · 운영 중인 사이트 4개 · 마지막 업데이트 2026.11.14</sub>
+<sub>프로젝트 8개 · 운영 중인 사이트 4개 · 마지막 업데이트 2026.11.14</sub>
 
 <p>
 <a href="https://gazua.sch0718.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/gazua-dark-ffee6f12.svg"><img src="cards/gazua-light-31ecb86d.svg" width="400" alt="가즈아 — 관심종목을 한 차트에서 비교하고 시험하는 주식 앱"></picture></a>
@@ -25,5 +25,4 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/doclookup-dark-eabac525.svg"><img src="cards/doclookup-light-70526a30.svg" width="400" alt="doclookup — 문서를 절 단위로 색인해 쓰임과 같이 고칠 곳을 찾기"></picture>
 <a href="https://github.com/sch0718/sch0718-toolkit-web"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/sch0718-toolkit-web-dark-6a7995fa.svg"><img src="cards/sch0718-toolkit-web-light-6f60a42e.svg" width="400" alt="toolkit-web — 웹 서비스들이 함께 쓰는 TypeScript 패키지 모음"></picture></a>
 <a href="https://github.com/sch0718/sch0718-toolkit-python"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/sch0718-toolkit-python-dark-7d7ec207.svg"><img src="cards/sch0718-toolkit-python-light-14c08554.svg" width="400" alt="toolkit-python — Python 백엔드가 함께 쓸 패키지 모음"></picture></a>
-<picture><source media="(prefers-color-scheme: dark)" srcset="cards/smarthome-dark-e534e101.svg"><img src="cards/smarthome-light-11d8e96e.svg" width="400" alt="smarthome — Home Assistant로 묶는 우리 집과 TV 에이전트"></picture>
 </p>
