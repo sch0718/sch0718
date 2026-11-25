@@ -14,13 +14,13 @@
 
 #### 프로젝트
 
-<sub>프로젝트 14개 · 운영 중인 사이트 4개 · 마지막 업데이트 2026.11.23</sub>
+<sub>프로젝트 14개 · 운영 중인 사이트 4개 · 마지막 업데이트 2026.11.24</sub>
 
 <p>
-<a href="https://gazua.sch0718.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/gazua-dark-2098b65c.svg"><img src="cards/gazua-light-fc3c26d5.svg" width="400" alt="가즈아 — 관심종목을 한 차트에서 비교하고 시험하는 주식 앱"></picture></a>
+<a href="https://gazua.sch0718.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/gazua-dark-788e8186.svg"><img src="cards/gazua-light-5e84f3a1.svg" width="400" alt="가즈아 — 관심종목을 한 차트에서 비교하고 시험하는 주식 앱"></picture></a>
 <a href="https://landmark.sch0718.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/landmark-dark-312c2b06.svg"><img src="cards/landmark-light-964fc21e.svg" width="400" alt="랜드마크 — 평소에 모아 두고, 여행 때 꺼내 쓰는 장소 보관함"></picture></a>
 <a href="https://repass.sch0718.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/repass-dark-96088a32.svg"><img src="cards/repass-light-364ddb2b.svg" width="400" alt="리패스 — 기출문제로 회차를 섞은 모의고사"></picture></a>
-<a href="https://belorn.sch0718.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/belorn-dark-aebbede9.svg"><img src="cards/belorn-light-d594c3fe.svg" width="400" alt="벨로른 변경 전기 — 브라우저에서 하는 칸 전투 전술 RPG"></picture></a>
+<a href="https://belorn.sch0718.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/belorn-dark-94615f49.svg"><img src="cards/belorn-light-cdbe030e.svg" width="400" alt="벨로른 변경 전기 — 브라우저에서 하는 칸 전투 전술 RPG"></picture></a>
 <a href="https://github.com/sch0718/claude-plugins"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/claude-plugins-dark-efbb21fc.svg"><img src="cards/claude-plugins-light-9a5ffdd8.svg" width="400" alt="claude-plugins — 직접 만든 Claude Code 플러그인 마켓플레이스"></picture></a>
 <a href="https://github.com/sch0718/claude-plugins/tree/HEAD/plugins/cascade-fix"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/cascade-fix-dark-a1eb96ad.svg"><img src="cards/cascade-fix-light-264480db.svg" width="400" alt="cascade-fix — 리뷰 지적을 싼 모델 둘이 고치고, 갈린 것만 Opus가 판가름"></picture></a>
 <a href="https://github.com/sch0718/claude-plugins/tree/HEAD/plugins/fanout"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/fanout-dark-7f27d9f8.svg"><img src="cards/fanout-light-6f2d96e5.svg" width="400" alt="fanout — 고칠 것들을 하위 세션에 나눠 맡기고 PR 병합·정리까지"></picture></a>
@@ -28,7 +28,7 @@
 <a href="https://github.com/sch0718/claude-plugins/tree/HEAD/plugins/session-move"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/session-move-dark-3ca373e9.svg"><img src="cards/session-move-light-ed953678.svg" width="400" alt="session-move — Code 탭 세션을 다른 계정·다른 기기로 옮기기"></picture></a>
 <a href="https://github.com/sch0718/claude-plugins/tree/HEAD/plugins/offline-doc-bundle"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/offline-doc-bundle-dark-ad058bfd.svg"><img src="cards/offline-doc-bundle-light-ffd9c2b1.svg" width="400" alt="offline-doc-bundle — 마크다운을 인터넷 없이 열리는 HTML·PDF 묶음으로"></picture></a>
 <a href="https://github.com/sch0718/claude-plugins/tree/HEAD/plugins/architecture-motion"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/architecture-motion-dark-99d42bb5.svg"><img src="cards/architecture-motion-light-d58ab3c0.svg" width="400" alt="architecture-motion — 구성 변화·요청 흐름·장애 전파를 움직이는 그림으로"></picture></a>
-<a href="https://github.com/sch0718/sch0718-toolkit-web"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/sch0718-toolkit-web-dark-6c670a45.svg"><img src="cards/sch0718-toolkit-web-light-3c3f4df5.svg" width="400" alt="toolkit-web — 웹 서비스들이 함께 쓰는 TypeScript 패키지 모음"></picture></a>
-<a href="https://github.com/sch0718/sch0718-toolkit-python"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/sch0718-toolkit-python-dark-a623c1d2.svg"><img src="cards/sch0718-toolkit-python-light-6df9611b.svg" width="400" alt="toolkit-python — Python 백엔드가 함께 쓸 패키지 모음"></picture></a>
+<a href="https://github.com/sch0718/sch0718-toolkit-web"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/sch0718-toolkit-web-dark-2a8ef02e.svg"><img src="cards/sch0718-toolkit-web-light-35e3a510.svg" width="400" alt="toolkit-web — 웹 서비스들이 함께 쓰는 TypeScript 패키지 모음"></picture></a>
+<a href="https://github.com/sch0718/sch0718-toolkit-python"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/sch0718-toolkit-python-dark-6b0ef451.svg"><img src="cards/sch0718-toolkit-python-light-30cb2f02.svg" width="400" alt="toolkit-python — Python 백엔드가 함께 쓸 패키지 모음"></picture></a>
 <picture><source media="(prefers-color-scheme: dark)" srcset="cards/smarthome-dark-e534e101.svg"><img src="cards/smarthome-light-11d8e96e.svg" width="400" alt="smarthome — Home Assistant로 묶는 우리 집과 TV 에이전트"></picture>
 </p>
